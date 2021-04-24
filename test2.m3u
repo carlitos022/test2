@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 ,PRUEBA1
+#EXTINF:-1 ,Canal 24 Horas
 
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8?PlaylistM3UCL group-title="Tera"
 
-#EXTINF:-1 ,Canal Prueba 2
+#EXTINF:-1, tvg-id="1" tvg-name="Sony HD" group-title="Cine y Series" ,Sony
 
-http://inliveserver.com:1935/11010/11010/playlist.m3u8?PlaylistM3UCL
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8?PlaylistM3UCL group-title="Tera"
 
 #EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV",Sony
-http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9385.m3u8
+http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9385.m3u8 group-title="Comedia"
