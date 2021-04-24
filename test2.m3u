@@ -7,3 +7,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 #EXTINF:-1 ,Canal Prueba 2
 
 http://inliveserver.com:1935/11010/11010/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV",Sony
+http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9385.m3u8
