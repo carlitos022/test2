@@ -1,11 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV",Sony
-http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9385.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.co" tvg-name="DISCOVERY HOME and HEALTH" tvg-logo="http://51.161.115.48:8080/imagenes/61.jpg" group-title="TV",DISCOVERY HOME and HEALTH
-http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9391.m3u8
-
-#EXTINF:-1, tvg-chno="1" tvg-id="Animal Planet" tvg-name="Testing" tvg-country="+593" tvg-logo="http://51.161.115.48:8080/imagenes/61.jpg" group-title="Cine y Series",Testing2
+#EXTINF:-1, tvg-chno="1" tvg-id="Animal Planet" tvg-name="Testing" tvg-country="593" tvg-logo="http://51.161.115.48:8080/imagenes/60.jpg" group-title="Cine y Series",Animal Planet
 
 http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9389.m3u8
+
+#EXTINF:-1, tvg-chno="2" tvg-id="StudioUniversal" tvg-name="StudioUniversal" tvg-country="593" tvg-logo="http://xtream-coders.com/x0/latino/studio_universal.png",StudioUniversal
+
+http://69.10.62.24:25461/live/ufoDq8XnAO/kV3q1gkVRX/9388.m3u8
